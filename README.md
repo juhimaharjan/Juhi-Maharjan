@@ -13,5 +13,5 @@ class Bio extends SoftwareEngineer {
 }
 
 class CurrentlyLearning extends SoftwareEngineer {
-  current = ['Machine Learning with Python', 'Three.js', 'GSAP'];
+  current = ['Machine Learning with Python'];
 }
