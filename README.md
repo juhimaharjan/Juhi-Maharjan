@@ -3,15 +3,15 @@
 </p>
 
 ```js
-import { SoftwareEngineer } from '@fizasayyed';
+import { Accounting Student } from '@jjuggiee';
 
-class Bio extends SoftwareEngineer {
+class Bio extends {
   name     = 'Juhi Maharjan';
   title    = 'Accounting Student';
   location = 'Washington-DC Baltimore';
   uptime   = '20 yrs 11 months 5 days';
 }
 
-class CurrentlyLearning extends SoftwareEngineer {
+class CurrentlyLearning extends {
   current = ['Machine Learning with Python'];
 }
