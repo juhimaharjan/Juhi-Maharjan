@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/fizasayyed/fizasayyed/blob/main/slouch-potato.png" />
+  <img src="[https://github.com/juhimaharjan/juhimaharjan/issues/1#issue-2587401650]" />
 </p>
 
 ```js
