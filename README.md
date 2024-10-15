@@ -12,6 +12,6 @@ class Bio extends {
   uptime   = '20 yrs 11 months 5 days';
 }
 
-class CurrentlyLearning extends {
+class CurrentlyLearning {
   current = ['Machine Learning with Python'];
 }
