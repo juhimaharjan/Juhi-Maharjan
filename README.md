@@ -3,15 +3,17 @@
 </p>
 
 ```js
-import { Accounting Student } from '@jjuggiee';
+import { Accounting Student } ;
 
-class Bio extends {
+class Bio extends 
   name     = 'Juhi Maharjan';
   title    = 'Accounting Student';
   location = 'Washington-DC Baltimore';
   uptime   = '20 yrs 11 months 5 days';
-}
 
-class CurrentlyLearning {
+class CurrentlyLearning 
   current = ['Machine Learning with Python'];
-}
+
+```
+<p align="center">
+<a href="[https://www.linkedin.com/in/juhimaharjan/)" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
