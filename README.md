@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/juhimaharjan/juhimaharjan/blob/main/smart%20monkey.jpeg" alt="Smart Monkey" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juhimaharjan&show_icons=true&bg_color=FFFAF0&title_color=000000&text_color=000000&icon_color=FFD700&border_color=000000" alt="Juhi's GitHub Stats" />
 </p>
 
 ```js
