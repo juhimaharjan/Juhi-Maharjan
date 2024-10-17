@@ -3,7 +3,7 @@
 </p>
 
 ```js
-import { Accounting Student } ;
+import { I'm new and still learning how to code!  } ;
 
 class Bio extends 
   name     = 'Juhi Maharjan';
